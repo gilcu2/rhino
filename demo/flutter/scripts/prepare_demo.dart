@@ -6,7 +6,7 @@ import "dart:io";
 final String resourcePath =
     join(dirname(Platform.script.path), "..", "..", "..", "resources");
 final String libPath =
-    join(dirname(Platform.script.path), "..", "..", "..", "lib");
+  join(dirname(Platform.script.path), "..", "..", "..", "lib");
 final String testDataPath = join(resourcePath, ".test", "test_data.json");
 
 final String assetsPath = join(dirname(Platform.script.path), "..", "assets");

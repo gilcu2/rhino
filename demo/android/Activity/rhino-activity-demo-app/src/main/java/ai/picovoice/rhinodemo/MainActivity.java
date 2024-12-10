@@ -47,7 +47,7 @@ import ai.picovoice.rhino.RhinoManagerErrorCallback;
 
 
 public class MainActivity extends AppCompatActivity {
-    private static final String ACCESS_KEY = "${YOUR_ACCESS_KEY_HERE}"; // AccessKey obtained from Picovoice Console (https://console.picovoice.ai/)
+    private static final String ACCESS_KEY = "Pp7HiR6a6cORNaFzI+V5wYWOfXkobW02G1BzorsreA59nQvMY8tpvQ=="; // AccessKey obtained from Picovoice Console (https://console.picovoice.ai/)
 
     private String contextName = "";
 
